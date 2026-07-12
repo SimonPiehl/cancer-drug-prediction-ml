@@ -1,8 +1,8 @@
 # Drug Sensitivity Prediction
 
-ML pipeline to predict cancer drug sensitivity from gene expression data, developed as part of the Bioinformatics II course at Saarland University.
+ML pipeline to predict cancer drug sensitivity from gene expression data, developed as part of the Bioinformatics II course at Universität des Saarlandes.
 
-Data: [GDSC database](https://www.cancerrxgene.org/) (~1000 cell lines, 10 drugs)
+Data: GDSC database (1000 cell lines, 10 drugs)
 
 ## Models
 
