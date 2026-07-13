@@ -6,7 +6,7 @@ Data: GDSC database (1000 cell lines, 10 drugs)
 
 ## Models
 
-Both classifier and regressor use Random Forest with GridSearchCV hyperparameter tuning and 5-fold cross-validation. The classifier is evaluated using MCC, sensitivity, and specificity; the regressor using MSE. Feature selection is based on a list of known cancer-relevant genes (`cancer_gene_list.txt`).
+Both classifier and regressor use Random Forest with GridSearchCV hyperparameter tuning and 5-fold cross-validation. The classifier is evaluated using MCC, sensitivity, and specificity. The regressor by using MSE. Feature selection is based on a list of known cancer-relevant genes (`cancer_gene_list.txt`).
 
 ## Installation
 
