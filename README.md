@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python SplitTestTraining.py
 
 # Classifier
-python Klassifikator.py expression_data.txt binary_data.txt train_ids.txt test_ids.txt
+python Classifier.py expression_data.txt binary_data.txt train_ids.txt test_ids.txt
 
 # Regressor
 python Regressor.py expression_data.txt IC50_data.txt train_ids.txt test_ids.txt
